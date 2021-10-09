@@ -21,9 +21,9 @@ module.exports = {
   //Lavalink
   Lavalink: {
     id: "Main",
-    host: "host name or IP",
-    port: 80, // The port that lavalink is listening to. This must be a number!
-    pass: "your password",
+    host: "node3.rockbusterhostings.in.net",
+    port: 65535, // The port that lavalink is listening to. This must be a number!
+    pass: "pass134",
     secure: false, // Set this to true if the lavalink uses SSL or you're hosting lavalink on repl.it
   },
 
